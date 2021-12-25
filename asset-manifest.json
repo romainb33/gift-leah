@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gift-leah/static/css/main.04bbd64a.css",
+    "main.js": "/gift-leah/static/js/main.9bb08ef6.js",
+    "index.html": "/gift-leah/index.html",
+    "main.04bbd64a.css.map": "/gift-leah/static/css/main.04bbd64a.css.map",
+    "main.9bb08ef6.js.map": "/gift-leah/static/js/main.9bb08ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04bbd64a.css",
+    "static/js/main.9bb08ef6.js"
+  ]
+}
